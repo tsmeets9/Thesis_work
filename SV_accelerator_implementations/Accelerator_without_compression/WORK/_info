@@ -1,0 +1,797 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/users/students/r0755727/Documents/thesis/Accelerator/22231
+T_opt
+!s11d adder_sv_unit /users/students/r0755727/Documents/thesis/Accelerator/22231/WORK 1 intf 1 /users/students/r0755727/Documents/thesis/Accelerator/22231/WORK 
+!s110 1685634294
+VS9X2FfV>OG:jd[`N>gTHb0
+Z2 04 10 4 work tbench_top fast 0
+=1-000ae431a4f1-6478bcf6-8935-2c267f
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work WORK
+Z5 tCvgOpt 0
+n@_opt
+Z6 OE;O;2021.3_2;73
+R1
+T_opt1
+!s11d adder_sv_unit /users/students/r0755727/Documents/thesis-Accelerator_without_compression-Accelerator/Accelerator/22231/WORK 1 intf 1 /users/students/r0755727/Documents/thesis-Accelerator_without_compression-Accelerator/Accelerator/22231/WORK 
+!s110 1682599795
+V0MMY6YO@2_7U`C69>A8472
+R2
+=1-000ae431a4f1-644a6f73-57d34-277c
+R3
+R4
+R5
+n@_opt1
+R6
+R1
+vactivations_memory
+Z7 !s110 1683467979
+!i10b 1
+!s100 MSZOeGd5@Gbbed1JWzXjd1
+IHU0:4Tc;OkLU]m>VEBnog1
+R1
+w1683467972
+8src/rtl_building_blocks/device/activations_memory.v
+Fsrc/rtl_building_blocks/device/activations_memory.v
+!i122 10
+Z8 L0 5 82
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z11 !s108 1683467979.000000
+Z12 !s107 src/test/tbench_top.sv|src/test/testprogram.sv|src/test/environment.sv|src/test/scoreboard.sv|src/test/checker.sv|src/test/generator.sv|src/test/monitor.sv|src/test/driver.sv|src/test/transaction.sv|src/test/intf.sv|src/test/common.sv|src/rtl_building_blocks/test/fifo_tb.sv|src/rtl_building_blocks/test/adder_tb.sv|src/rtl_building_blocks/test/multiplier_tb.sv|src/device/top_system.sv|src/device/top_chip.sv|src/device/controller_fsm.sv|src/rtl_building_blocks/device/packer.sv|src/rtl_building_blocks/device/activations_memory.v|src/rtl_building_blocks/device/fifo_memory.v|src/rtl_building_blocks/device/weights_memory.v|src/rtl_building_blocks/device/driver_activations.sv|src/rtl_building_blocks/device/driver_weights.sv|src/rtl_building_blocks/device/adder_tree.sv|src/rtl_building_blocks/device/PE_array.sv|src/rtl_building_blocks/device/mac.sv|src/rtl_building_blocks/device/fifo.sv|src/rtl_building_blocks/device/memory.sv|src/rtl_building_blocks/device/register.sv|src/rtl_building_blocks/device/multiplier.sv|src/rtl_building_blocks/device/adder.sv|
+Z13 !s90 -sv17compat|-override_timescale=1ns/1ps|-vopt|-work|WORK|-O4|-mfcu|-f|src/sourcefile_order|
+!s101 -O4
+!i113 0
+Z14 o-sv17compat -override_timescale=1ns/1ps -work WORK -O4 -mfcu -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+vadder
+Z15 !s105 adder_sv_unit
+Z16 DXx4 work 13 adder_sv_unit 0 22 llPT@7K2g_9?Hk<KAE3iT0
+Z17 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z18 !s110 1685634656
+!i10b 1
+!s100 38zl;cnDBM8SU8KmjZTiE3
+I]592@B:0UVlKOz3fJHXE=0
+S1
+R1
+Z19 w1685476159
+Z20 8src/rtl_building_blocks/device/adder.sv
+Z21 Fsrc/rtl_building_blocks/device/adder.sv
+!i122 43
+Z22 L0 1 25
+R9
+R10
+r1
+!s85 0
+31
+Z23 !s108 1685634656.000000
+!s107 src/test/tbench_top.sv|src/test/testprogram.sv|src/test/environment.sv|src/test/scoreboard.sv|src/test/checker.sv|src/test/generator.sv|src/test/monitor.sv|src/test/driver.sv|src/test/transaction.sv|src/test/intf.sv|src/test/common.sv|src/rtl_building_blocks/test/fifo_tb.sv|src/rtl_building_blocks/test/adder_tb.sv|src/rtl_building_blocks/test/multiplier_tb.sv|src/device/top_system.sv|src/device/top_chip.sv|src/device/controller_fsm.sv|src/rtl_building_blocks/device/packer.sv|src/rtl_building_blocks/device/sky130_sram_1r1w_128x512_128.v|src/rtl_building_blocks/device/sky130_sram_fifo_1r1w_8x1024_8.v|src/rtl_building_blocks/device/driver_activations.sv|src/rtl_building_blocks/device/driver_weights.sv|src/rtl_building_blocks/device/PE_array.sv|src/rtl_building_blocks/device/mac.sv|src/rtl_building_blocks/device/fifo.sv|src/rtl_building_blocks/device/register.sv|src/rtl_building_blocks/device/multiplier.sv|src/rtl_building_blocks/device/adder.sv|
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+Xadder_sv_unit
+!s115 intf
+R17
+R18
+VllPT@7K2g_9?Hk<KAE3iT0
+r1
+!s85 0
+!i10b 1
+!s100 fo1WSk8WmOS<8@5mY[KC>2
+IllPT@7K2g_9?Hk<KAE3iT0
+!i103 1
+S1
+R1
+Z24 w1685634157
+R20
+R21
+Z25 8src/rtl_building_blocks/device/multiplier.sv
+Z26 Fsrc/rtl_building_blocks/device/multiplier.sv
+Z27 8src/rtl_building_blocks/device/register.sv
+Z28 Fsrc/rtl_building_blocks/device/register.sv
+Z29 8src/rtl_building_blocks/device/fifo.sv
+Z30 Fsrc/rtl_building_blocks/device/fifo.sv
+Z31 8src/rtl_building_blocks/device/mac.sv
+Z32 Fsrc/rtl_building_blocks/device/mac.sv
+Z33 8src/rtl_building_blocks/device/PE_array.sv
+Z34 Fsrc/rtl_building_blocks/device/PE_array.sv
+Z35 8src/rtl_building_blocks/device/driver_weights.sv
+Z36 Fsrc/rtl_building_blocks/device/driver_weights.sv
+Z37 8src/rtl_building_blocks/device/driver_activations.sv
+Z38 Fsrc/rtl_building_blocks/device/driver_activations.sv
+Z39 8src/rtl_building_blocks/device/sky130_sram_fifo_1r1w_8x1024_8.v
+Z40 Fsrc/rtl_building_blocks/device/sky130_sram_fifo_1r1w_8x1024_8.v
+Z41 8src/rtl_building_blocks/device/sky130_sram_1r1w_128x512_128.v
+Z42 Fsrc/rtl_building_blocks/device/sky130_sram_1r1w_128x512_128.v
+Z43 8src/rtl_building_blocks/device/packer.sv
+Z44 Fsrc/rtl_building_blocks/device/packer.sv
+Z45 8src/device/controller_fsm.sv
+Z46 Fsrc/device/controller_fsm.sv
+Z47 8src/device/top_chip.sv
+Z48 Fsrc/device/top_chip.sv
+Z49 8src/device/top_system.sv
+Z50 Fsrc/device/top_system.sv
+Z51 8src/rtl_building_blocks/test/multiplier_tb.sv
+Z52 Fsrc/rtl_building_blocks/test/multiplier_tb.sv
+Z53 8src/rtl_building_blocks/test/adder_tb.sv
+Z54 Fsrc/rtl_building_blocks/test/adder_tb.sv
+Z55 8src/rtl_building_blocks/test/fifo_tb.sv
+Z56 Fsrc/rtl_building_blocks/test/fifo_tb.sv
+8src/test/common.sv
+Fsrc/test/common.sv
+Z57 8src/test/intf.sv
+Z58 Fsrc/test/intf.sv
+8src/test/transaction.sv
+Fsrc/test/transaction.sv
+8src/test/driver.sv
+Fsrc/test/driver.sv
+8src/test/monitor.sv
+Fsrc/test/monitor.sv
+8src/test/generator.sv
+Fsrc/test/generator.sv
+8src/test/checker.sv
+Fsrc/test/checker.sv
+8src/test/scoreboard.sv
+Fsrc/test/scoreboard.sv
+8src/test/environment.sv
+Fsrc/test/environment.sv
+Z59 8src/test/testprogram.sv
+Z60 Fsrc/test/testprogram.sv
+Z61 8src/test/tbench_top.sv
+Z62 Fsrc/test/tbench_top.sv
+!i122 43
+L0 2 0
+R10
+31
+R23
+Z63 !s107 src/test/tbench_top.sv|src/test/testprogram.sv|src/test/environment.sv|src/test/scoreboard.sv|src/test/checker.sv|src/test/generator.sv|src/test/monitor.sv|src/test/driver.sv|src/test/transaction.sv|src/test/intf.sv|src/test/common.sv|src/rtl_building_blocks/test/fifo_tb.sv|src/rtl_building_blocks/test/adder_tb.sv|src/rtl_building_blocks/test/multiplier_tb.sv|src/device/top_system.sv|src/device/top_chip.sv|src/device/controller_fsm.sv|src/rtl_building_blocks/device/packer.sv|src/rtl_building_blocks/device/sky130_sram_1r1w_128x512_128.v|src/rtl_building_blocks/device/sky130_sram_fifo_1r1w_8x1024_8.v|src/rtl_building_blocks/device/driver_activations.sv|src/rtl_building_blocks/device/driver_weights.sv|src/rtl_building_blocks/device/PE_array.sv|src/rtl_building_blocks/device/mac.sv|src/rtl_building_blocks/device/fifo.sv|src/rtl_building_blocks/device/register.sv|src/rtl_building_blocks/device/multiplier.sv|src/rtl_building_blocks/device/adder.sv|
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vadder_tb
+R15
+R16
+R17
+R18
+!i10b 1
+!s100 ge1b8YUZ[TL7d>W]4GEE^0
+I<HAVCcIS<c?64B>_jh9_81
+S1
+R1
+Z64 w1685023990
+R53
+R54
+!i122 43
+Z65 L0 7 29
+R9
+R10
+r1
+!s85 0
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vadder_tree
+R15
+DXx4 work 13 adder_sv_unit 0 22 ^FlO>_z5??BX_DVzXa`j90
+R17
+!s110 1683562569
+!i10b 1
+!s100 FPDWMGHeRjb5FmP9mYUGi2
+I@CD[>fcN[BANeLGP^THEf3
+S1
+R1
+w1683562521
+8src/rtl_building_blocks/device/adder_tree.sv
+Fsrc/rtl_building_blocks/device/adder_tree.sv
+!i122 31
+L0 1 89
+R9
+R10
+r1
+!s85 0
+31
+!s108 1683562569.000000
+!s107 src/test/tbench_top.sv|src/test/testprogram.sv|src/test/environment.sv|src/test/scoreboard.sv|src/test/checker.sv|src/test/generator.sv|src/test/monitor.sv|src/test/driver.sv|src/test/transaction.sv|src/test/intf.sv|src/test/common.sv|src/rtl_building_blocks/test/fifo_tb.sv|src/rtl_building_blocks/test/adder_tb.sv|src/rtl_building_blocks/test/multiplier_tb.sv|src/device/top_system.sv|src/device/top_chip.sv|src/device/controller_fsm.sv|src/rtl_building_blocks/device/packer.sv|src/rtl_building_blocks/device/sky130_sram_1r1w_128x512_128.v|src/rtl_building_blocks/device/sky130_sram_fifo_1r1w_8x1024_8.v|src/rtl_building_blocks/device/driver_activations.sv|src/rtl_building_blocks/device/driver_weights.sv|src/rtl_building_blocks/device/adder_tree.sv|src/rtl_building_blocks/device/PE_array.sv|src/rtl_building_blocks/device/mac.sv|src/rtl_building_blocks/device/fifo.sv|src/rtl_building_blocks/device/register.sv|src/rtl_building_blocks/device/multiplier.sv|src/rtl_building_blocks/device/adder.sv|
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vcontroller_fsm
+R15
+R16
+R17
+R18
+!i10b 1
+!s100 WklOhcAhKJ[`UO:g>QjF[2
+IZPdcfnnDfRahXKP>M?Zln3
+S1
+R1
+Z66 w1685633663
+R45
+R46
+!i122 43
+L0 1 520
+R9
+R10
+r1
+!s85 0
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vdriver_activations
+R15
+R16
+R17
+R18
+!i10b 1
+!s100 `I^RJKWP4U:;7LG_H0T>E2
+I:10oC4>>Z`n753>Ic458a1
+S1
+R1
+w1685020970
+R37
+R38
+!i122 43
+Z67 L0 1 18
+R9
+R10
+r1
+!s85 0
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vdriver_weights
+R15
+R16
+R17
+R18
+!i10b 1
+!s100 oPTOJSEJh7fX;QRimz8?d3
+Ig]YiU`I7m7S[aRYG3^fYf3
+S1
+R1
+w1685023988
+R35
+R36
+!i122 43
+R67
+R9
+R10
+r1
+!s85 0
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vfifo
+R15
+R16
+R17
+R18
+!i10b 1
+!s100 ]>z;MiPd7QJU3T3UL3Ag_2
+I<>aO0DPlHk<H`j40?M64Y3
+S1
+R1
+R19
+R29
+R30
+!i122 43
+L0 1 59
+R9
+R10
+r1
+!s85 0
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vfifo_memory
+!s110 1683540371
+!i10b 1
+!s100 ]>EJ8FVS_;Ml9CdX`O8QO1
+IBY0aW1GaXVE?eGL`M_[bS2
+R1
+w1683540363
+8src/rtl_building_blocks/device/fifo_memory.v
+Fsrc/rtl_building_blocks/device/fifo_memory.v
+!i122 29
+R8
+R9
+R10
+r1
+!s85 0
+31
+!s108 1683540370.000000
+!s107 src/test/tbench_top.sv|src/test/testprogram.sv|src/test/environment.sv|src/test/scoreboard.sv|src/test/checker.sv|src/test/generator.sv|src/test/monitor.sv|src/test/driver.sv|src/test/transaction.sv|src/test/intf.sv|src/test/common.sv|src/rtl_building_blocks/test/fifo_tb.sv|src/rtl_building_blocks/test/adder_tb.sv|src/rtl_building_blocks/test/multiplier_tb.sv|src/device/top_system.sv|src/device/top_chip.sv|src/device/controller_fsm.sv|src/rtl_building_blocks/device/packer.sv|src/rtl_building_blocks/device/sky130_sram_1r1w_128x512_128.v|src/rtl_building_blocks/device/fifo_memory.v|src/rtl_building_blocks/device/driver_activations.sv|src/rtl_building_blocks/device/driver_weights.sv|src/rtl_building_blocks/device/adder_tree.sv|src/rtl_building_blocks/device/PE_array.sv|src/rtl_building_blocks/device/mac.sv|src/rtl_building_blocks/device/fifo.sv|src/rtl_building_blocks/device/register.sv|src/rtl_building_blocks/device/multiplier.sv|src/rtl_building_blocks/device/adder.sv|
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vfifo_tb
+R15
+R16
+R17
+R18
+!i10b 1
+!s100 dJzGIXiI3`fG]KT15Keaa0
+I=6bbdH_4k_cC9mFDVmh]R0
+S1
+R1
+Z68 w1685023991
+R55
+R56
+!i122 43
+L0 7 70
+R9
+R10
+r1
+!s85 0
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+Yintf
+R17
+R16
+R18
+R9
+r1
+!s85 0
+!i10b 1
+!s100 >8P7eX0=D01CHUL8[S@e73
+Im;Y4OGJAV<^zE2PidVa=<1
+R15
+S1
+R1
+R66
+R57
+R58
+!i122 43
+Z69 L0 1 0
+R10
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vmac
+R15
+R16
+R17
+R18
+!i10b 1
+!s100 7BknB<eb[hm]C2OgbFl3`2
+ISYD^W7k[2]WB4]1FlLGo01
+S1
+R1
+R66
+R31
+R32
+!i122 43
+L0 1 69
+R9
+R10
+r1
+!s85 0
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vmemory
+R15
+DXx4 work 13 adder_sv_unit 0 22 g8ReK7=5:2?ZAUJ`79[Om3
+R17
+!s110 1683532440
+!i10b 1
+!s100 d;HnW9jENX3`31VkO@;ei0
+ILQ]Ig[2W2JaYhIOIAfVGg1
+S1
+R1
+w1683487311
+8src/rtl_building_blocks/device/memory.sv
+Fsrc/rtl_building_blocks/device/memory.sv
+!i122 15
+L0 3 56
+R9
+R10
+r1
+!s85 0
+31
+!s108 1683532440.000000
+!s107 src/test/tbench_top.sv|src/test/testprogram.sv|src/test/environment.sv|src/test/scoreboard.sv|src/test/checker.sv|src/test/generator.sv|src/test/monitor.sv|src/test/driver.sv|src/test/transaction.sv|src/test/intf.sv|src/test/common.sv|src/rtl_building_blocks/test/fifo_tb.sv|src/rtl_building_blocks/test/adder_tb.sv|src/rtl_building_blocks/test/multiplier_tb.sv|src/device/top_system.sv|src/device/top_chip.sv|src/device/controller_fsm.sv|src/rtl_building_blocks/device/packer.sv|src/rtl_building_blocks/device/sky130_sram_1r1w_128x512_128.v|src/rtl_building_blocks/device/fifo_memory.v|src/rtl_building_blocks/device/driver_activations.sv|src/rtl_building_blocks/device/driver_weights.sv|src/rtl_building_blocks/device/adder_tree.sv|src/rtl_building_blocks/device/PE_array.sv|src/rtl_building_blocks/device/mac.sv|src/rtl_building_blocks/device/fifo.sv|src/rtl_building_blocks/device/memory.sv|src/rtl_building_blocks/device/register.sv|src/rtl_building_blocks/device/multiplier.sv|src/rtl_building_blocks/device/adder.sv|
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vmultiplier
+R15
+R16
+R17
+R18
+!i10b 1
+!s100 FY2l@<QOEMeXh55=FT:<l2
+IkoF6okAC;7kSABQiZc^mb2
+S1
+R1
+R66
+R25
+R26
+!i122 43
+R22
+R9
+R10
+r1
+!s85 0
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vmultiplier_tb
+R15
+R16
+R17
+R18
+!i10b 1
+!s100 <N2a?^H7?<7K9;D1M8QMO1
+I_OTZ>;W<7[0VSgZdU^B_[3
+S1
+R1
+R68
+R51
+R52
+!i122 43
+R65
+R9
+R10
+r1
+!s85 0
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vpacker
+R15
+R16
+R17
+R18
+!i10b 1
+!s100 bkK=TDl^K>H:AJ0La7NL31
+InW_B?<LD4hk_5A86fE7j<1
+S1
+R1
+R19
+R43
+R44
+!i122 43
+L0 1 28
+R9
+R10
+r1
+!s85 0
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vPE_array
+R15
+R16
+R17
+R18
+!i10b 1
+!s100 9D2A5]N7=:M`_cUbjQCA>0
+I95oSW[[ETcaKcl:QebJ9:3
+S1
+R1
+R66
+R33
+R34
+!i122 43
+L0 1 46
+R9
+R10
+r1
+!s85 0
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+n@p@e_array
+vregister
+R15
+R16
+R17
+R18
+!i10b 1
+!s100 RmVZJOhH_BT36Ko;ObI;T3
+IW7Q@Q6VHa]S3bAIW7fKU:0
+S1
+R1
+R19
+R27
+R28
+!i122 43
+L0 1 27
+R9
+R10
+r1
+!s85 0
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vsky130_sram_1r1w_128x512_128
+R18
+!i10b 1
+!s100 BAC2iN1iPilVA>0UiZBG;2
+IW[3fg5clU@I:3<1S0XeBA3
+R1
+R64
+R41
+R42
+!i122 43
+L0 5 83
+R9
+R10
+r1
+!s85 0
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vsky130_sram_fifo_1r1w_8x1024_8
+R18
+!i10b 1
+!s100 bR5;@Z`czTlUbhHgZN2kB2
+I`[5@jZ<z2[VY4TH^nUP<k2
+R1
+R64
+R39
+R40
+!i122 43
+R8
+R9
+R10
+r1
+!s85 0
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vtbench_top
+R17
+R16
+R18
+R9
+r1
+!s85 0
+!i10b 1
+!s100 Y[k[P<5DE=0?c58czNKT>1
+IXDi^?SXfzYd:WjMX3aEfW0
+R15
+S1
+R1
+R24
+R61
+R62
+!i122 43
+L0 2 94
+R10
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+4testprogram
+R17
+R16
+R18
+R9
+r1
+!s85 0
+!i10b 1
+!s100 jTW_dJ3n3F0ZWc]f1;4V=1
+I84^PE3mFd@J0JW]7`LTze3
+R15
+S1
+R1
+w1685023987
+R59
+R60
+!i122 43
+R69
+R10
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vtop_chip
+R15
+R16
+R17
+R18
+!i10b 1
+!s100 eZ;nh3lTBUe41TIV@O>7T1
+ITl7BOBnS0laW:OdaLOOdZ3
+S1
+R1
+R66
+R47
+R48
+!i122 43
+L0 1 378
+R9
+R10
+r1
+!s85 0
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vtop_system
+R15
+R16
+R17
+R18
+!i10b 1
+!s100 M3WYcngBS;SLhXMPaE5MP0
+I0U?RK4Ndh<SA7f<58;hVF2
+S1
+R1
+R66
+R49
+R50
+!i122 43
+L0 3 60
+R9
+R10
+r1
+!s85 0
+31
+R23
+R63
+R13
+!s101 -O4
+!i113 0
+R14
+R5
+vweights_memory
+R7
+!i10b 1
+!s100 iZF22L8QHj?8aFgONhk790
+I9Zz`B>G`?_=T2CEPcChQ<0
+R1
+w1683467974
+8src/rtl_building_blocks/device/weights_memory.v
+Fsrc/rtl_building_blocks/device/weights_memory.v
+!i122 10
+R8
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!s101 -O4
+!i113 0
+R14
+R5

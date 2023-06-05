@@ -1,5 +1,5 @@
 # Thesis_work
-In this repository, the implemented code can be found for the Master thesis 'On-chip compression of feature maps for
+In this repository, the implemented code and some information about OpenLane can be found for the Master thesis 'On-chip compression of feature maps for
 embedded deep learning'. 
 
 In this folder can be found:

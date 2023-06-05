@@ -1,0 +1,52 @@
+OpenROAD 0264023b6c2a8ae803b8d440478d657387277d93 
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+Placing the following macros:
+{'genblk1\\[0\\].sram_weights_banks': ['540000', '12230000', 'N'], 'genblk1\\[1\\].sram_weights_banks': ['2330000', '12230000', 'N'], 'genblk1\\[2\\].sram_weights_banks': ['4120000', '12230000', 'N'], 'genblk1\\[3\\].sram_weights_banks': ['5910000', '12230000', 'N'], 'genblk1\\[4\\].sram_weights_banks': ['7700000', '12230000', 'N'], 'genblk1\\[5\\].sram_weights_banks': ['9490000', '12230000', 'N'], 'genblk1\\[6\\].sram_weights_banks': ['540000', '11080000', 'N'], 'genblk1\\[7\\].sram_weights_banks': ['9490000', '11080000', 'N'], 'genblk2\\[0\\].sram_masks_banks': ['2330000', '11080000', 'N'], 'genblk2\\[1\\].sram_masks_banks': ['4120000', '11080000', 'N'], 'genblk2\\[2\\].sram_masks_banks': ['5910000', '11080000', 'N'], 'genblk2\\[3\\].sram_masks_banks': ['7700000', '11080000', 'N'], 'genblk3\\[0\\].sram_encoded_data_banks': ['540000', '300000', 'N'], 'genblk3\\[1\\].sram_encoded_data_banks': ['2330000', '300000', 'N'], 'genblk3\\[2\\].sram_encoded_data_banks': ['4120000', '300000', 'N'], 'genblk3\\[3\\].sram_encoded_data_banks': ['5910000', '300000', 'N'], 'genblk3\\[4\\].sram_encoded_data_banks': ['7700000', '300000', 'N'], 'genblk3\\[5\\].sram_encoded_data_banks': ['9490000', '300000', 'N'], 'genblk3\\[6\\].sram_encoded_data_banks': ['540000', '1490000', 'N'], 'genblk3\\[7\\].sram_encoded_data_banks': ['2330000', '1490000', 'N'], 'genblk3\\[8\\].sram_encoded_data_banks': ['4120000', '1490000', 'N'], 'genblk3\\[9\\].sram_encoded_data_banks': ['5910000', '1490000', 'N'], 'genblk3\\[10\\].sram_encoded_data_banks': ['7700000', '1490000', 'N'], 'genblk3\\[11\\].sram_encoded_data_banks': ['9490000', '1490000', 'N'], 'genblk3\\[12\\].sram_encoded_data_banks': ['540000', '2680000', 'N'], 'genblk3\\[13\\].sram_encoded_data_banks': ['2330000', '2680000', 'N'], 'genblk3\\[14\\].sram_encoded_data_banks': ['4120000', '2680000', 'N'], 'genblk3\\[15\\].sram_encoded_data_banks': ['5910000', '2680000', 'N'], 'genblk3\\[16\\].sram_encoded_data_banks': ['7700000', '2680000', 'N'], 'genblk3\\[17\\].sram_encoded_data_banks': ['9490000', '2680000', 'N'], 'genblk3\\[18\\].sram_encoded_data_banks': ['540000', '3870000', 'N'], 'genblk3\\[19\\].sram_encoded_data_banks': ['2330000', '3870000', 'N'], 'genblk3\\[20\\].sram_encoded_data_banks': ['4120000', '3870000', 'N'], 'genblk3\\[21\\].sram_encoded_data_banks': ['5910000', '3870000', 'N'], 'genblk3\\[22\\].sram_encoded_data_banks': ['7700000', '3870000', 'N'], 'genblk3\\[23\\].sram_encoded_data_banks': ['9490000', '3870000', 'N'], 'genblk3\\[24\\].sram_encoded_data_banks': ['540000', '5060000', 'N'], 'genblk3\\[25\\].sram_encoded_data_banks': ['2330000', '5060000', 'N'], 'genblk3\\[26\\].sram_encoded_data_banks': ['4120000', '5060000', 'N'], 'genblk3\\[27\\].sram_encoded_data_banks': ['5910000', '5060000', 'N'], 'genblk3\\[28\\].sram_encoded_data_banks': ['7700000', '5060000', 'N'], 'genblk3\\[29\\].sram_encoded_data_banks': ['9490000', '5060000', 'N'], 'genblk3\\[30\\].sram_encoded_data_banks': ['540000', '6250000', 'N'], 'genblk3\\[31\\].sram_encoded_data_banks': ['9490000', '6250000', 'N'], 'fifo_0.fifo_mem_0': ['5650000', '7000000', 'N']}
+Design name: top_chip
+Placing fifo_0.fifo_mem_0
+Placing genblk1\[0\].sram_weights_banks
+Placing genblk1\[1\].sram_weights_banks
+Placing genblk1\[2\].sram_weights_banks
+Placing genblk1\[3\].sram_weights_banks
+Placing genblk1\[4\].sram_weights_banks
+Placing genblk1\[5\].sram_weights_banks
+Placing genblk1\[6\].sram_weights_banks
+Placing genblk1\[7\].sram_weights_banks
+Placing genblk2\[0\].sram_masks_banks
+Placing genblk2\[1\].sram_masks_banks
+Placing genblk2\[2\].sram_masks_banks
+Placing genblk2\[3\].sram_masks_banks
+Placing genblk3\[0\].sram_encoded_data_banks
+Placing genblk3\[10\].sram_encoded_data_banks
+Placing genblk3\[11\].sram_encoded_data_banks
+Placing genblk3\[12\].sram_encoded_data_banks
+Placing genblk3\[13\].sram_encoded_data_banks
+Placing genblk3\[14\].sram_encoded_data_banks
+Placing genblk3\[15\].sram_encoded_data_banks
+Placing genblk3\[16\].sram_encoded_data_banks
+Placing genblk3\[17\].sram_encoded_data_banks
+Placing genblk3\[18\].sram_encoded_data_banks
+Placing genblk3\[19\].sram_encoded_data_banks
+Placing genblk3\[1\].sram_encoded_data_banks
+Placing genblk3\[20\].sram_encoded_data_banks
+Placing genblk3\[21\].sram_encoded_data_banks
+Placing genblk3\[22\].sram_encoded_data_banks
+Placing genblk3\[23\].sram_encoded_data_banks
+Placing genblk3\[24\].sram_encoded_data_banks
+Placing genblk3\[25\].sram_encoded_data_banks
+Placing genblk3\[26\].sram_encoded_data_banks
+Placing genblk3\[27\].sram_encoded_data_banks
+Placing genblk3\[28\].sram_encoded_data_banks
+Placing genblk3\[29\].sram_encoded_data_banks
+Placing genblk3\[2\].sram_encoded_data_banks
+Placing genblk3\[30\].sram_encoded_data_banks
+Placing genblk3\[31\].sram_encoded_data_banks
+Placing genblk3\[3\].sram_encoded_data_banks
+Placing genblk3\[4\].sram_encoded_data_banks
+Placing genblk3\[5\].sram_encoded_data_banks
+Placing genblk3\[6\].sram_encoded_data_banks
+Placing genblk3\[7\].sram_encoded_data_banks
+Placing genblk3\[8\].sram_encoded_data_banks
+Placing genblk3\[9\].sram_encoded_data_banks
+Successfully placed 45 instances.

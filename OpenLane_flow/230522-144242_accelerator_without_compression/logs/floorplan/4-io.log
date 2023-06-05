@@ -1,0 +1,50 @@
+OpenROAD 0264023b6c2a8ae803b8d440478d657387277d93 
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+[INFO]: Reading ODB at '/esat/micas_raid/users/r0755727/230522-144242_accelerator_without_compression/tmp/floorplan/3-initial_fp.odb'...
+[WARNING PPL-0015] Macro fifo_0.fifo_mem_0 is not placed.
+[WARNING PPL-0015] Macro genblk1\[0\].sram_weights_banks is not placed.
+[WARNING PPL-0015] Macro genblk1\[1\].sram_weights_banks is not placed.
+[WARNING PPL-0015] Macro genblk1\[2\].sram_weights_banks is not placed.
+[WARNING PPL-0015] Macro genblk1\[3\].sram_weights_banks is not placed.
+[WARNING PPL-0015] Macro genblk1\[4\].sram_weights_banks is not placed.
+[WARNING PPL-0015] Macro genblk1\[5\].sram_weights_banks is not placed.
+[WARNING PPL-0015] Macro genblk1\[6\].sram_weights_banks is not placed.
+[WARNING PPL-0015] Macro genblk1\[7\].sram_weights_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[0\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[10\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[11\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[12\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[13\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[14\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[15\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[16\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[17\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[18\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[19\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[1\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[20\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[21\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[22\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[23\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[24\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[25\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[26\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[27\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[28\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[29\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[2\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[30\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[31\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[3\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[4\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[5\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[6\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[7\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[8\].sram_activations_banks is not placed.
+[WARNING PPL-0015] Macro genblk2\[9\].sram_activations_banks is not placed.
+Found 0 macro blocks.
+Using 1u default distance from corners.
+[INFO PPL-0007] Random pin placement.
+Writing OpenROAD database to /esat/micas_raid/users/r0755727/230522-144242_accelerator_without_compression/tmp/floorplan/4-io.odb...
+Writing layout to /esat/micas_raid/users/r0755727/230522-144242_accelerator_without_compression/tmp/floorplan/4-io.def...

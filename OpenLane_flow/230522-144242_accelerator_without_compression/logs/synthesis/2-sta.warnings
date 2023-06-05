@@ -1,0 +1,3 @@
+[WARNING ODB-0220] WARNING (LEFPARS-2036): SOURCE statement is obsolete in version 5.6 and later.
+To avoid this warning in the future, remove this statement from the LEF file with version 5.6 or later. See file /esat/micas_raid/users/r0755727/230522-144242_accelerator_without_compression/tmp/merged.nom.lef at line 68353.
+[WARNING] Did not save OpenROAD database!

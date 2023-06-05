@@ -1,0 +1,9 @@
+OpenROAD 0264023b6c2a8ae803b8d440478d657387277d93 
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+[INFO]: Reading ODB at '/esat/micas_raid/users/r0755727/230522-144242_accelerator_without_compression/tmp/floorplan/4-io.macro_placement.odb'...
+[INFO ODB-0303] The initial 4146 rows (101746986 sites) were cut with 41 shapes for a total of 14079 rows (74591420 sites).
+[INFO TAP-0004] Inserted 28158 endcaps.
+[INFO TAP-0005] Inserted 1338300 tapcells.
+Writing OpenROAD database to /esat/micas_raid/users/r0755727/230522-144242_accelerator_without_compression/results/floorplan/top_chip.odb...
+Writing layout to /esat/micas_raid/users/r0755727/230522-144242_accelerator_without_compression/results/floorplan/top_chip.def...

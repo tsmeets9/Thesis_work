@@ -1,0 +1,22 @@
+OpenROAD 0264023b6c2a8ae803b8d440478d657387277d93 
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+[INFO]: Reading ODB at '/esat/micas_raid/users/r0755727/230522-144242_accelerator_without_compression/tmp/placement/9-resizer.odb'...
+Placement Analysis
+---------------------------------
+total displacement          0.0 u
+average displacement        0.0 u
+max displacement            0.0 u
+original HPWL        37381847.7 u
+legalized HPWL       37539222.7 u
+delta HPWL                    0 %
+
+[INFO DPL-0020] Mirrored 86973 instances
+[INFO DPL-0021] HPWL before          37539222.7 u
+[INFO DPL-0022] HPWL after           37381847.7 u
+[INFO DPL-0023] HPWL delta               -0.4 %
+Setting global connections for newly added cells...
+Writing OpenROAD database to /esat/micas_raid/users/r0755727/230522-144242_accelerator_without_compression/results/placement/top_chip.odb...
+Writing netlist to /esat/micas_raid/users/r0755727/230522-144242_accelerator_without_compression/results/placement/top_chip.nl.v...
+Writing powered netlist to /esat/micas_raid/users/r0755727/230522-144242_accelerator_without_compression/results/placement/top_chip.pnl.v...
+Writing layout to /esat/micas_raid/users/r0755727/230522-144242_accelerator_without_compression/results/placement/top_chip.def...

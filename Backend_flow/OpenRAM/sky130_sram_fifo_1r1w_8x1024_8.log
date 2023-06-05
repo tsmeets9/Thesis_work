@@ -1,0 +1,75 @@
+|==============================================================================|
+|=========                      OpenRAM v1.2.11                       =========|
+|=========                                                            =========|
+|=========               VLSI Design and Automation Lab               =========|
+|=========        Computer Science and Engineering Department         =========|
+|=========            University of California Santa Cruz             =========|
+|=========                                                            =========|
+|=========          Usage help: openram-user-group@ucsc.edu           =========|
+|=========        Development help: openram-dev-group@ucsc.edu        =========|
+|=========                See LICENSE for license info                =========|
+|==============================================================================|
+** Start: 05/01/2023 15:41:15
+Technology: sky130
+Total size: 8192 bits
+Word size: 8
+Words: 1024
+Banks: 1
+RW ports: 0
+R-only ports: 1
+W-only ports: 1
+DRC/LVS/PEX is only run on the top-level design to save run-time (inline_lvsdrc=True to do inline checking).
+DRC/LVS/PEX is disabled (check_lvsdrc=True to enable).
+Characterization is disabled (using analytical delay models) (analytical_delay=False to simulate).
+Only generating nominal corner timing.
+Words per row: None
+Output files are: 
+/users/students/r0755727/Documents/OpenRAM/./OpenRAM/fifo_mem/sky130_sram_fifo_1r1w_8x1024_8.lvs
+/users/students/r0755727/Documents/OpenRAM/./OpenRAM/fifo_mem/sky130_sram_fifo_1r1w_8x1024_8.sp
+/users/students/r0755727/Documents/OpenRAM/./OpenRAM/fifo_mem/sky130_sram_fifo_1r1w_8x1024_8.v
+/users/students/r0755727/Documents/OpenRAM/./OpenRAM/fifo_mem/sky130_sram_fifo_1r1w_8x1024_8.lib
+/users/students/r0755727/Documents/OpenRAM/./OpenRAM/fifo_mem/sky130_sram_fifo_1r1w_8x1024_8.py
+/users/students/r0755727/Documents/OpenRAM/./OpenRAM/fifo_mem/sky130_sram_fifo_1r1w_8x1024_8.html
+/users/students/r0755727/Documents/OpenRAM/./OpenRAM/fifo_mem/sky130_sram_fifo_1r1w_8x1024_8.log
+/users/students/r0755727/Documents/OpenRAM/./OpenRAM/fifo_mem/sky130_sram_fifo_1r1w_8x1024_8.lef
+/users/students/r0755727/Documents/OpenRAM/./OpenRAM/fifo_mem/sky130_sram_fifo_1r1w_8x1024_8.gds
+** Submodules: 8.5 seconds
+** Placement: 0.0 seconds
+**** Retrieving pins: 0.0 seconds
+**** Analyzing pins: 0.0 seconds
+**** Finding blockages: 3.5 seconds
+**** Converting blockages: 0.5 seconds
+**** Converting pins: 0.1 seconds
+**** Separating adjacent pins: 0.0 seconds
+*** Finding pins and blockages: 66.5 seconds
+*** Maze routing pins: 99.5 seconds
+**** Retrieving pins: 0.0 seconds
+**** Analyzing pins: 0.2 seconds
+**** Finding blockages: 10.8 seconds
+**** Converting blockages: 0.4 seconds
+**** Converting pins: 7.7 seconds
+**** Separating adjacent pins: 48.8 seconds
+*** Finding pins and blockages: 131.4 seconds
+*** Maze routing supplies: 502.1 seconds
+** Routing: 1172.1 seconds
+** Verification: 0.0 seconds
+** SRAM creation: 1180.8 seconds
+SP: Writing to /users/students/r0755727/Documents/OpenRAM/./OpenRAM/fifo_mem/sky130_sram_fifo_1r1w_8x1024_8.sp
+** Spice writing: 0.8 seconds
+GDS: Writing to /users/students/r0755727/Documents/OpenRAM/./OpenRAM/fifo_mem/sky130_sram_fifo_1r1w_8x1024_8.gds
+** GDS: 2.3 seconds
+LEF: Writing to /users/students/r0755727/Documents/OpenRAM/./OpenRAM/fifo_mem/sky130_sram_fifo_1r1w_8x1024_8.lef
+** LEF: 0.0 seconds
+LVS: Writing to /users/students/r0755727/Documents/OpenRAM/./OpenRAM/fifo_mem/sky130_sram_fifo_1r1w_8x1024_8.lvs.sp
+** LVS writing: 0.2 seconds
+LIB: Characterizing... 
+WARNING: file elmore.py: line 45: In analytical mode, all ports have the timing of the first read port.
+
+** Characterization: 1.2 seconds
+Config: Writing to /users/students/r0755727/Documents/OpenRAM/./OpenRAM/fifo_mem/sky130_sram_fifo_1r1w_8x1024_8.py
+** Config: 0.0 seconds
+Datasheet: Writing to /users/students/r0755727/Documents/OpenRAM/./OpenRAM/fifo_mem/sky130_sram_fifo_1r1w_8x1024_8.html
+** Datasheet: 0.1 seconds
+Verilog: Writing to /users/students/r0755727/Documents/OpenRAM/./OpenRAM/fifo_mem/sky130_sram_fifo_1r1w_8x1024_8.v
+** Verilog: 0.0 seconds
+** End: 1185.4 seconds

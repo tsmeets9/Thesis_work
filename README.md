@@ -1,4 +1,4 @@
-# Thesis_code
+# Thesis_work
 In this repository, the implemented code can be found for the Master thesis 'On-chip compression of feature maps for
 embedded deep learning'. 
 

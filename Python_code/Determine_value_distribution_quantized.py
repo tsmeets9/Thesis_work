@@ -66,14 +66,17 @@ for fmap_index in range(len(processed)):
     if WITHOUT_ZEROS:
         to_plot = to_plot[to_plot != 0]
     print(to_plot.shape)
-    plt.rcParams['figure.figsize'] = [12.5, 9.8]
+    plt.rcParams['figure.figsize'] = [15.1, 12]
 
     plt.hist(to_plot , color = 'blue', edgecolor = 'black', bins = 10)
     title_plot = 'Value Distribution: ' + a.features_names[fmap_index]
     print(a.features_names[fmap_index])
-    plt.title(title_plot, fontsize = 40)
-    plt.xlabel('Values', fontsize = 37)
-    plt.ylabel('Occurences', fontsize = 37)
-    plt.xticks(fontsize=18)
-    plt.yticks(fontsize=18)
+    plt.title(title_plot, fontsize = 45)
+    plt.xlabel('Values', fontsize = 38)
+    plt.ylabel('Occurences', fontsize = 38)
+    plt.xticks(fontsize=30)
+    plt.yticks(fontsize=30)
+    plt.subplots_adjust(left=0.15)
+    plt.subplots_adjust(bottom=0.15)
+    #plt.subplots_adjust(right=-0.1)
     plt.show()
